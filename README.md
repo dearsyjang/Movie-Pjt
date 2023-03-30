@@ -68,8 +68,13 @@ npm run serve
 | 커뮤니티                             | 댓글 | - 댓글을 작성, 수정, 삭제     |
 | 마이페이지                             | 사용자 | - 다른 사용자를 팔로우, 언팔로우<br/>- 팔로워, 팔로잉 수 조회<br/>-작성한 게시글, 작성한 댓글, 좋아요한 게시글 조회     |
 
-### 💙 회원
-### 💛 홈 (HOME)
+### 💙 회원: 회원가입, 로그인
+<img width="1000" alt="signup" src="https://user-images.githubusercontent.com/97591083/228922530-637863b8-76fc-41e8-909e-874c93e7f452.png">
+<img width="1000" alt="login" src="https://user-images.githubusercontent.com/97591083/228930902-e80b16f5-a606-42b8-a060-265b37f2943a.png">
+
+### 💛 홈 (HOME): 영화 순위 조회, 영화 평점등록
+<img width="1000" src="https://user-images.githubusercontent.com/97591083/228929238-412e2829-2809-4124-ae9c-d0f068d27e7b.gif">
+
 ### 💙 영화 추천 (MOVIES)
 ### 💛 커뮤니티 (COMMUNITY)
 ### 💙 마이페이지 (MYPAGE)
