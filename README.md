@@ -83,8 +83,8 @@ npm run serve
 
 ### 💛 커뮤니티 (COMMUNITY): 게시글, 댓글, 좋아요
 <div>
-<img width="400" alt="article" src="https://user-images.githubusercontent.com/97591083/228931949-a16913e0-3806-4c29-9d0d-cc7b2c276214.png">
-<img width="400" alt="comment" src="https://user-images.githubusercontent.com/97591083/228932130-6fde41ca-706e-4980-be64-9da369acecc2.png">
+<img width="400" height="250" alt="article" src="https://user-images.githubusercontent.com/97591083/228931949-a16913e0-3806-4c29-9d0d-cc7b2c276214.png">
+<img width="400" height="250" alt="comment" src="https://user-images.githubusercontent.com/97591083/228932130-6fde41ca-706e-4980-be64-9da369acecc2.png">
 </div>
 ### 💙 마이페이지 (MYPAGE)
 
