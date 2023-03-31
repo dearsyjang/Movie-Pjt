@@ -70,21 +70,21 @@ npm run serve
 
 ### 💙 회원: 회원가입, 로그인
 <div>
-<img width="400" height="300" alt="signup" src="https://user-images.githubusercontent.com/97591083/228922530-637863b8-76fc-41e8-909e-874c93e7f452.png">
-<img width="400" height="300" alt="login" src="https://user-images.githubusercontent.com/97591083/228930902-e80b16f5-a606-42b8-a060-265b37f2943a.png">
+<img width="400" height="250" alt="signup" src="https://user-images.githubusercontent.com/97591083/228922530-637863b8-76fc-41e8-909e-874c93e7f452.png">
+<img width="400" height="250" alt="login" src="https://user-images.githubusercontent.com/97591083/228930902-e80b16f5-a606-42b8-a060-265b37f2943a.png">
 </div>
 
 ### 💛 홈 (HOME): 영화 순위 조회, 영화 평점등록
 <img width="800" src="https://user-images.githubusercontent.com/97591083/228929238-412e2829-2809-4124-ae9c-d0f068d27e7b.gif">
 
 ### 💙 영화 추천 (MOVIES)
-<img width="1000" alt="movies" src="https://user-images.githubusercontent.com/97591083/228933573-559e2227-4112-4300-839a-4e200960c2d2.png">
-<img width="1000" src="https://user-images.githubusercontent.com/97591083/228934732-d48e094f-f3f0-48d8-9f36-25936057044d.gif")
+<img width="800" alt="movies" src="https://user-images.githubusercontent.com/97591083/228933573-559e2227-4112-4300-839a-4e200960c2d2.png">
+<img width="800" src="https://user-images.githubusercontent.com/97591083/228934732-d48e094f-f3f0-48d8-9f36-25936057044d.gif")
 
 ### 💛 커뮤니티 (COMMUNITY): 게시글, 댓글, 좋아요
 <div>
-<img width="500" alt="article" src="https://user-images.githubusercontent.com/97591083/228931949-a16913e0-3806-4c29-9d0d-cc7b2c276214.png">
-<img width="500" alt="comment" src="https://user-images.githubusercontent.com/97591083/228932130-6fde41ca-706e-4980-be64-9da369acecc2.png">
+<img width="400" alt="article" src="https://user-images.githubusercontent.com/97591083/228931949-a16913e0-3806-4c29-9d0d-cc7b2c276214.png">
+<img width="400" alt="comment" src="https://user-images.githubusercontent.com/97591083/228932130-6fde41ca-706e-4980-be64-9da369acecc2.png">
 </div>
 ### 💙 마이페이지 (MYPAGE)
 
