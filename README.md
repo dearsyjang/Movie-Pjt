@@ -70,12 +70,12 @@ npm run serve
 
 ### 💙 회원: 회원가입, 로그인
 <div>
-<img width="450" height="300" alt="signup" src="https://user-images.githubusercontent.com/97591083/228922530-637863b8-76fc-41e8-909e-874c93e7f452.png">
-<img width="450" height="300" alt="login" src="https://user-images.githubusercontent.com/97591083/228930902-e80b16f5-a606-42b8-a060-265b37f2943a.png">
+<img width="400" height="300" alt="signup" src="https://user-images.githubusercontent.com/97591083/228922530-637863b8-76fc-41e8-909e-874c93e7f452.png">
+<img width="400" height="300" alt="login" src="https://user-images.githubusercontent.com/97591083/228930902-e80b16f5-a606-42b8-a060-265b37f2943a.png">
 </div>
 
 ### 💛 홈 (HOME): 영화 순위 조회, 영화 평점등록
-<img width="1000" src="https://user-images.githubusercontent.com/97591083/228929238-412e2829-2809-4124-ae9c-d0f068d27e7b.gif">
+<img width="800" src="https://user-images.githubusercontent.com/97591083/228929238-412e2829-2809-4124-ae9c-d0f068d27e7b.gif">
 
 ### 💙 영화 추천 (MOVIES)
 <img width="1000" alt="movies" src="https://user-images.githubusercontent.com/97591083/228933573-559e2227-4112-4300-839a-4e200960c2d2.png">
