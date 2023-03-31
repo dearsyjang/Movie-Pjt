@@ -89,7 +89,7 @@ npm run serve
 
 ### 💙 마이페이지 (MYPAGE): 팔로우, 마이페이지 조회
 <img width="800" alt="mypage" src="https://user-images.githubusercontent.com/97591083/229107698-3fe14a33-3220-41e1-99da-9a17e28bc921.png">
-<img width="800" src="https://user-images.githubusercontent.com/97591083/229108092-5cb96224-c4f8-45fa-8b79-89531c7a6b1c.gif">
+<img width="800" src="https://user-images.githubusercontent.com/97591083/229109085-5faae9e2-b3de-4f86-ba37-b7850c8fa3f9.gif">
 
 
 ## 기술 스택
