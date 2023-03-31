@@ -86,7 +86,8 @@ npm run serve
 <img width="400" height="250" alt="article" src="https://user-images.githubusercontent.com/97591083/228931949-a16913e0-3806-4c29-9d0d-cc7b2c276214.png">
 <img width="400" height="250" alt="comment" src="https://user-images.githubusercontent.com/97591083/228932130-6fde41ca-706e-4980-be64-9da369acecc2.png">
 </div>
-### 💙 마이페이지 (MYPAGE)
+### 💙 마이페이지 (MYPAGE): 팔로우, 마이페이지 조회
+<img width="800" alt="mypage" src="https://user-images.githubusercontent.com/97591083/229107698-3fe14a33-3220-41e1-99da-9a17e28bc921.png">
 
 ## 기술 스택
 
